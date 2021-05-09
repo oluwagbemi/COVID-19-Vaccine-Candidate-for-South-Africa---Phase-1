@@ -1,0 +1,3 @@
+# COVID-19-Vaccine-Candidate-for-South-Africa---Phase-1
+Computational development of COVID-19 Vaccine Candidate for new South African COVID-19 virus variant - Phase 1
+This research is the phase 1 of the computational development of COVID-19 vaccine candidate for the new South African COVID-19 virus variant. Computational genomics and immunoinformatics methods were adopted and implemented to develop novel SARs-CoV-2 (COVID-19) vaccine candidate for South Africa. Futurework will focus on processing and analyzing newer variants of COVID-19 virus strain whole genome sequence data in South Africa as they emerge from time to time.
